@@ -1,0 +1,6 @@
+{
+  "name": "全功能個人記事本",
+  "description": "簡約舒適的個人全功能記事本，整合待辦清單、老闆臨時交辦事項、工作計劃、會議記錄與行動指引、專案管理、感恩日誌、讀書記錄（支援編輯）與隨手速記，支援本機自動儲存與資料備份。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
